@@ -1,3 +1,3 @@
 install:
-  - FILE="-Dfile=ZT-3.3.4.aar"
-  - mvn install:install-file $FILE -DgroupId=com.gitee.Mlethe -DartifactId=ZTAD -Dversion=3.3.4 -Dpackaging=aar -DpomFile=pom.xml
+  - FILE="-Dfile=ZT-3.3.5.aar"
+  - mvn install:install-file $FILE -DgroupId=com.gitee.Mlethe -DartifactId=ZTAD -Dversion=3.3.5 -Dpackaging=aar -DpomFile=pom.xml
